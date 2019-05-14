@@ -13,6 +13,14 @@ fields:
   label: Hero Heading
   name: heading
   default: Belkirk College
+- name: '111'
+  type: blocks
+  label: '111'
+  template_types:
+  - person
+  config:
+    min: 
+    max: 
 - type: text
   name: sub_heading
   label: Hero Sub heading
