@@ -4,13 +4,13 @@ auto_deploy: true
 admin_path: adm
 webhook_url: 
 sections:
+- type: heading
+  label: Content
 - type: directory
   path: rqwedqweqwe
   label: rrrr
   create: all
   match: "**/*"
-- type: heading
-  label: Content
 - type: jekyll-posts
   label: Posts
   create: all
