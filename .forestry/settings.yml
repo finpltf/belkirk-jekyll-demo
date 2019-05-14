@@ -30,6 +30,7 @@ sections:
   create: all
   match: "*"
   templates:
+  - landing-page
   - project
 - type: document
   path: _data/information.yml
