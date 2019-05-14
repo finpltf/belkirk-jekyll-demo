@@ -26,3 +26,7 @@ fields:
   type: text
   hidden: false
   default: ''
+- name: fg
+  type: field_group
+  config: {}
+  label: fg
